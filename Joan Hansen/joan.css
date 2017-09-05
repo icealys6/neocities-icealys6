@@ -1,0 +1,64 @@
+body{
+  background-color:#d8bfd8;
+  font-size:22px;
+  font-family:Georgia;
+}
+#bookmid{
+  padding-left:25px;
+}
+#about{
+  width:80%;
+}
+#img1{
+  margin-right:25px;
+}
+#img2{
+  margin-left:25px;
+}
+#boat{
+  margin-right:25px;
+  margin-top:25px;
+}
+#newB{
+  margin-top:25px;
+}
+
+#saigon{
+  margin-top:50px;
+  margin-left:475px;
+  text-align:left;
+}
+#other{
+  padding-left:25px;
+}
+#books{
+  margin-top:150px;
+}
+a{
+  font-size:22px;
+}
+nav{
+  padding-left:25px;
+}
+#p1{
+  margin-left:155px;
+}
+h1,h2,h3{
+  text-align:center;
+}
+header{
+  background-color:white;
+  border:5px double navy;
+}
+footer{
+  border:5px double navy;
+  background-color:white;
+}
+#wrapimg{
+  background-color:white;
+  width:350px;
+  height:350px;
+}
+#mrp{
+  margin-left:50px;
+}

@@ -1,0 +1,59 @@
+body{
+  color:#666666;
+	font-family:Verdana;
+	margin-left:auto;
+	margin-right:auto;
+	width:80%;
+	background-image:url("background.jpg");
+	background-repeat:repeat;
+
+}
+#wrapper{
+  min-width:700px;
+	max-width:1024px;
+	background-color:#FFFFFF;
+	box-shadow:5px 5px;
+}
+main{
+  padding-left:20px;
+  padding-right:20px;
+}
+header{
+	color:#FFFFFF;
+	font-family:Georgia;
+}
+h1{
+	line-height:200%;
+	background-image:url("sunset.jpg");
+	padding-left:20px;
+	height:72px;
+	margin-bottom:0;
+}
+nav{
+	font-weight:bold;
+	background-color:#90c7e3;
+	padding:5px;
+}
+h2{
+	color:#3399CC;
+	font-family:Georgia;
+}
+dt{
+	color:#000033;
+	font-weight:bold;
+}
+.resort{
+	color:#000033;
+	font-size:1.2em;
+}
+footer{
+	font-size:.70em;
+	font-style:italic;
+	margin-left:auto;
+	margin-right:auto;
+	width:35%;
+	padding:10px;
+}
+h3{
+  color:#000033;
+}
